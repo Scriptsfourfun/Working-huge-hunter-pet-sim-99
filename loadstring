@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsfourfun/Working-huge-hunter-pet-sim-99/refs/heads/main/Raw%20data"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsfourfun/Working-huge-hunter-pet-sim-99/refs/heads/main/Raw%20data"))() or loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptsfourfun/Working-huge-hunter-pet-sim-99/refs/heads/main/raw%20data", true))()
